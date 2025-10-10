@@ -1,1 +1,1 @@
-<h1>Figma file:<span>https://shorturl.at/dR6LR</span> </h1>
+<h1>Figma-file:<span>https://shorturl.at/dR6LR</span></h1>
