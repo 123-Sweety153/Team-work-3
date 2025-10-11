@@ -7,7 +7,7 @@ function App() {
   return (
     <>
      <AllRoutes/>
-     <Button>Click me</Button>
+     <Button></Button>
     </>
   )
 }
